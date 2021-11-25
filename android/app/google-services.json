@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "658110856111",
+    "project_id": "aimer2",
+    "storage_bucket": "aimer2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658110856111:android:51edaabb5b4770b67c4d5a",
+        "android_client_info": {
+          "package_name": "com.example.aminer_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658110856111-27i25b4d9kmnhlj8vpd1bpaga0kd1skb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgRLyQ5n_EWv1r_U4yU3ueIGmQGqVQdaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658110856111-27i25b4d9kmnhlj8vpd1bpaga0kd1skb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "658110856111-vjh24edupuejd8f6357e13v15439lj8s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.aminer2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
